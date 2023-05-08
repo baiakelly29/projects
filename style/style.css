@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+*{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+} 
+
+body{
+ 
+    align-items: center;
+    background: linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
+    display: flex;
+    font-display: swap;
+    font-family: 'Dosis',sans-serif;
+    justify-content: center;
+}
