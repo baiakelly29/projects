@@ -11,7 +11,7 @@ html{
 } 
 
 body{
- 
+    padding: 10px;
     align-items: center;
     background: linear-gradient(320deg,#775767,#c97f62,#b1c963);
     display: flex;
@@ -28,7 +28,7 @@ body{
     padding: 15px 30px;
 }
 
-.screen{
+#screen{
     background:rgba(255, 255, 255,0.8);
     border-radius: 5px;
     border: 1px solid rgba(72, 72, 134,0.7);
